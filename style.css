@@ -156,10 +156,6 @@ main h2 {
     gap: .5em;
 }
 
-.square {
-    
-}
-
 .square img {
     width: 80%;
     height: auto;
@@ -209,7 +205,6 @@ main h2 {
     background-color: darkgrey;
     padding: 3em;
     width: auto;
-    border-radius: 10px;
 }
 
 .container button {
