@@ -25,6 +25,7 @@ body {
 header {
     padding: 0;
     background-size: cover;
+    background: url(.//images/pavers.mp4);
 }
 
 /* NAVIGATION */
